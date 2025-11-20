@@ -78,6 +78,7 @@ The firmware detects NFC tags and responds with JSON like:
   "block": 3,
   "data": "12 34 56 78"
 }
+```
 The GUI parses this and displays it clearly.
 
 ### **3. Write NFC Block**
